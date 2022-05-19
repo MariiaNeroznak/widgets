@@ -1,3 +1,8 @@
+# widgets
+
+The application get some term from search bar, makes request to youtube api and create a page with list of videos.
+It works on class-based react components. Use axios to make a request to youtube api. And demonstrate how to work with class-based react components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
