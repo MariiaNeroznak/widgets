@@ -23,7 +23,7 @@ const Convert = ({ text, lang }) => {
         {
           params: {
             target: lang.value,
-            q: text,
+            q: debouncedText,
             key: 'AIzaSyCHUCmpR7cT_yDFHC98CZJy2LTms-IwDlM',
           },
         }
